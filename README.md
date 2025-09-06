@@ -14,11 +14,3 @@ Projects range from:
 - 🛠️ **Mini applications** (utilities, scripts, experiments)  
 - 💡 **Concept demos** (to practice algorithms, frameworks, or APIs)  
 
----
-
-## 🚀 Getting Started  
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/ProjectBasedLearning.git
-   cd ProjectBasedLearning
